@@ -1,0 +1,13 @@
+{
+    "name": "wz-z/hello",
+    "description": "just practice how to user composer",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "wz",
+            "email": "unspecialwz@foxmail.com"
+        }
+    ],
+    "require": {}
+}
